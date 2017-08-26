@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Joao Toscano    iiwii@it-is-what-it-is.nl    @iiwiinl
 
 # THANKS
 
